@@ -1,5 +1,4 @@
-# DoublePendulum
+DoublePendulum
 ====
-WHY Projects
-----
-> 
+Motivation
+#
