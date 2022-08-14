@@ -29,7 +29,7 @@ Plus, some physicist proposed that some constraints are calculable. [Nonconserva
 
 Corresponding to my curioisty, S.Greydanus proposed Hamiltonian Neural Networks(2019)([arXiv:1906.01563](https://arxiv.org/abs/1906.01563)) - HNN -. This paper adopted hamiltonian as kind of activation function, which is application that hamiltonian is the generator of time. By compare to baseline neural network, he proved that his HNN is superior to other models.
 
-Similary, M.Lutter published Deep Lagrangian Networks: Using Physics as Model Prior For Deep Learning([arXiv:1907.04490])(https://arxiv.org/abs/1907.04490). Also it is similar to Greydanus' paper, Lagrangian is kind a good key to calculate the hamiltonian. 
+Similary, M.Lutter published Deep Lagrangian Networks: Using Physics as Model Prior For Deep Learning([arXiv:1907.04490](https://arxiv.org/abs/1907.04490)). Also it is similar to Greydanus' paper, Lagrangian is kind a good key to calculate the hamiltonian. 
 
-Otherwise, reservoir learning by Auto-Encoder is also tried to find out the best way to understand physical problems. Joseph Bakarji published Discovering Governing Equations from Partitial Measurements with Deep Delay Autuencoders(arXiv:2201.05136) which is fancy application of takens' theorm. 
+Otherwise, reservoir learning by Auto-Encoder is also tried to find out the best way to understand physical problems. Joseph Bakarji published Discovering Governing Equations from Partitial Measurements with Deep Delay Autuencoders([arXiv:2201.05136](https://arxiv.org/abs/2201.05136) which is fancy application of takens' theorm. 
 
