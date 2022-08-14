@@ -8,8 +8,6 @@ Especially, Edward Ott from MD, USA published the paper:**Using Machine Learning
 
  Even his works were successful and proved that ML&DL models can calculate the complex and chaotic incident. But, it was really naive and basic cornerstone. For it's clear that he figured out ML&DL model is good solution to calculate the chaotic case, but this model is simply for one case and it is not sure that every non-linear dynamics are appropriate to adopt such a method.
 
-
-
 ## LSTM & LSTM-AutoEncoder
 
 > Let's concern these problems from bottom. Issac Newton proposed noble way to understand the real world - differential equation. But, ODE faced the impossible challenge - non-linear dynamics. Poincaré proved that such a problems are impossible to solve under the algebraic structures. 
@@ -33,3 +31,6 @@ Similary, M.Lutter published Deep Lagrangian Networks: Using Physics as Model Pr
 
 Otherwise, reservoir learning by Auto-Encoder is also tried to find out the best way to understand physical problems. Joseph Bakarji published Discovering Governing Equations from Partitial Measurements with Deep Delay Autuencoders([arXiv:2201.05136](https://arxiv.org/abs/2201.05136) which is fancy application of takens' theorm. 
 
+## Reference
+
+> https://developer.ibm.com/exchanges/data/all/double-pendulum-chaotic/
